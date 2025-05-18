@@ -160,15 +160,17 @@ def init_db():
 
 
 def printMe():
-    print(f"\033[36m          █  █ █▄ █ █▄ █ █▀▀ ▀▄▀ █▀█ █▄ █\033[0m")
-    print(f"\033[36m          ▀▄▄▀ █ ▀█ █ ▀█ ██▄  █  █▄█ █ ▀█ ▄\033[0m")
+    print(f"\033[36m          █▄▀ ▄▀█ █▀▄▀█ █▀▀ █▄▀ █  █ █▀█ █▀█\033[0m")
+    print(f"\033[36m          █ █ █▀█ █ ▀ █ ██▄ █ █ ▀▄▄▀ █▀▄ █▄█ ▄\033[0m")
     print(f"\033[36m                © Copyright 2024\033[0m")
-    print(f"\033[36m            ✈ https://t.me/unneyon\033[0m", end="\n\n")
+    print(f"\033[36m            ✈ https://t.me/kamekuro\033[0m", end="\n\n")
     print(f"\033[36m 🔒 Licensed under CC-BY-NC-ND 4.0 unless otherwise specified.\033[0m")
     print(f"\033[36m 🌐 https://creativecommons.org/licenses/by-nc-nd/4.0\033[0m")
     print(f"\033[36m + attribution\033[0m")
     print(f"\033[36m + non-commercial\033[0m")
-    print(f"\033[36m + no-derivatives\033[0m")
+    print(f"\033[36m + no-derivatives\033[0m", end="\n\n")
+    print(f"\033[36m You CANNOT edit, distribute or redistribute and use for any purpose this file without direct permission from the author.\033[0m")
+    print(f"\033[36m All source code is provided for review only.\033[0m")
 
 
 def checkConfig():

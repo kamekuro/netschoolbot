@@ -23,8 +23,8 @@ python main.py
 | `id` | **int** | Telegram-ID бота | `290371341` |
 | `dev_id` | **int** | Ваш Telegram-ID | `36265675` |
 | `admin_chat` | **int** | Telegram-ID чата, куда будут отправляться резервные копии конфига и базы данных | `-1004536265675` |
-| `app` -> `id` | **int** | `App api_id` [подробнее о его получении](https://github.com/unneyon/hides-bot?tab=readme-ov-file#получение-app-api_id-и-app-api_hash) | `39125171` |
-| `app` -> `hash` | **str** | `App api_hash` [подробнее о его получении](https://github.com/unneyon/hides-bot?tab=readme-ov-file#получение-app-api_id-и-app-api_hash) | `176dea581932180dh1dd1485a51` |
+| `app` -> `id` | **int** | `App api_id` [подробнее о его получении](https://github.com/kamekuro/netschoolbot?tab=readme-ov-file#получение-app-api_id-и-app-api_hash) | `39125171` |
+| `app` -> `hash` | **str** | `App api_hash` [подробнее о его получении](https://github.com/kamekuro/netschoolbot?tab=readme-ov-file#получение-app-api_id-и-app-api_hash) | `176dea581932180dh1dd1485a51` |
 > **Остальные поля рекомендуется оставить как есть!**
 
 ## Получение `App api_id` и `App api_hash`

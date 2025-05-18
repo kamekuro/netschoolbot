@@ -1,0 +1,10 @@
+aiocache==0.12.3
+apscheduler==3.10.4
+gitpython==3.1.44
+meval==2.5
+git+https://github.com/kamekuro/netschoolapi
+git+https://github.com/KurimuzonAkuma/pyrogram
+git+https://github.com/pystorage/pyroboard
+git+https://github.com/kotttee/pyrogram_patch
+pytz==2024.2
+requests==2.32.3

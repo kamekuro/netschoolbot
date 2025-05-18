@@ -1,0 +1,27 @@
+{
+    "token": "",
+    "id": 0,
+    "dev_id": 0,
+    "debug_chat": 0,
+    "app": {
+        "id": "",
+        "hash": ""
+    },
+    "commands": {
+        "start": true,
+        "admin": true,
+        "announcements": true,
+        "auth": true,
+        "diary": true, "idiary": true,
+        "mail": true,
+        "marks": true, "imarks": true,
+        "other": true, "iother": true,
+        "settings": true
+    },
+    "statuses": {
+        "-1": "Заблокирован",
+        "0": "Обычный",
+        "1": "Администратор",
+        "2": "Разработчик"
+    }
+}
